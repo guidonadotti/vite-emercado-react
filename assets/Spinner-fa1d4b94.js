@@ -1,0 +1,1 @@
+import{j as s}from"./index-c52a1109.js";function n(){return s.jsxs("div",{id:"spinner-wrapper",children:[s.jsx("span",{className:"visually-hidden",children:"Cargando..."}),s.jsxs("div",{className:"lds-ring",children:[s.jsx("div",{}),s.jsx("div",{}),s.jsx("div",{}),s.jsx("div",{})]})]})}export{n as S};
